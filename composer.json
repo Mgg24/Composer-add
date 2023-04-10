@@ -1,0 +1,15 @@
+{
+    "name": "mgono/app",
+    "autoload": {
+        "psr-4": {
+            "Mgono\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mgg24",
+            "email": "mgonotey.git@gmail.com"
+        }
+    ],
+    "require": {}
+}
